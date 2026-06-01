@@ -1,0 +1,5 @@
+irm "https://christitus.com/win"| iex
+
+defrag c: /u /v
+Get-mmAgent
+Enable-mmagent -memorycompression
